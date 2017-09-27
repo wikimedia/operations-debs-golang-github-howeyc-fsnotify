@@ -1,4 +1,4 @@
-golang-github-howeyc-fsnotify (0.9.0+git20151003.16.f0c08ee-1) UNRELEASED; urgency=medium
+golang-github-howeyc-fsnotify (0.9.0+git20151003.16.f0c08ee-1~wmf1) stretch-wikimedia; urgency=medium
 
   * Initial release
 
